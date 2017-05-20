@@ -17,4 +17,4 @@ BK trees are formed based on discrete distance between two variables. For findin
 
 Using BK-trees and Levenshtein distance, the aim is to return bat or cat when we enter gat (where ‘gat’ is not a word in the dictionary). What makes BK trees so special is that it takes a problem which has no obvious solution besides brute force method and provides us with a simple and elegant solution. <br>
 
-## Note: This code can only be exexuted in windows.
+## Note: This code can only be executed in windows.
